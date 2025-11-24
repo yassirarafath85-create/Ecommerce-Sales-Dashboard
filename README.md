@@ -11,10 +11,10 @@ Enable business stakeholders to monitor KPIs and make data-driven decisions.
 ## Questions (KPI's) 
 Questions (KPIs Answered)
 
--What is the total sales, profit, and quantity sold over time?
--Which products and categories generate the highest revenue?
--Which customer segments contribute most to sales?
--What are the top-performing regions and markets?
--How have sales trends changed monthly and yearly?
--What are the highest and lowest margin products?
--How do discounts impact sales and profitability?
+- What is the total sales, profit, and quantity sold over time?
+- Which products and categories generate the highest revenue?
+- Which customer segments contribute most to sales?
+- What are the top-performing regions and markets?
+- How have sales trends changed monthly and yearly?
+- What are the highest and lowest margin products?
+- How do discounts impact sales and profitability?
