@@ -18,3 +18,4 @@ Questions (KPIs Answered)
 - How have sales trends changed monthly and yearly?
 - What are the highest and lowest margin products?
 - How do discounts impact sales and profitability?
+- Dashboard INteraction <a href=" https://github.com/yassirarafath85-create/Ecommerce-Sales-Dashboard/blob/main/Screenshot%202025-11-24%20231147.png" >View Dashboard</a>
