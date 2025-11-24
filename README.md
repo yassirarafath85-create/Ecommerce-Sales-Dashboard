@@ -26,19 +26,19 @@ Loaded multiple datasets including Orders and Details into Power BI.
 Data Cleaning & Transformation
 Handled missing values, standardized fields, corrected data types, and removed duplicates using Power Query.
 
-- Data Modeling
+- Data Modeling:
   Established relationships between tables and built a star-schema model for efficient analysis.
 
-- DAX Measures Creation
+- DAX Measures Creation:
   Created KPIs such as Total Sales, Profit, Quantity, Profit Margin, YoY Growth, and Category-wise metrics.
 
-- Visualization Development
+- Visualization Development:
   Designed interactive charts and visual elements for sales trends, product performance, customer insights, and regional analysis.
 
-- Dashboard Design
+- Dashboard Design:
   Built a clean, user-friendly layout with slicers, filters, drill-throughs, and dynamic interactions.
 
-- Insights & Storytelling
+- Insights & Storytelling:
   Highlighted key findings and trends to support decision-making
 
 ## Dashboard
