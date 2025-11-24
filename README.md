@@ -27,19 +27,19 @@ Data Cleaning & Transformation
 Handled missing values, standardized fields, corrected data types, and removed duplicates using Power Query.
 
 - Data Modeling
-- Established relationships between tables and built a star-schema model for efficient analysis.
+  Established relationships between tables and built a star-schema model for efficient analysis.
 
 - DAX Measures Creation
-- Created KPIs such as Total Sales, Profit, Quantity, Profit Margin, YoY Growth, and Category-wise metrics.
+  Created KPIs such as Total Sales, Profit, Quantity, Profit Margin, YoY Growth, and Category-wise metrics.
 
 - Visualization Development
-- Designed interactive charts and visual elements for sales trends, product performance, customer insights, and regional analysis.
+  Designed interactive charts and visual elements for sales trends, product performance, customer insights, and regional analysis.
 
 - Dashboard Design
-- Built a clean, user-friendly layout with slicers, filters, drill-throughs, and dynamic interactions.
+  Built a clean, user-friendly layout with slicers, filters, drill-throughs, and dynamic interactions.
 
 - Insights & Storytelling
-- Highlighted key findings and trends to support decision-making
+  Highlighted key findings and trends to support decision-making
 
 ## Dashboard
 <img width="1445" height="811" alt="Screenshot 2025-11-24 231147" src="https://github.com/user-attachments/assets/f480ddbb-e2d4-48c2-a9a3-3c357afb65b4" />
