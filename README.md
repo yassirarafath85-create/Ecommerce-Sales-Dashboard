@@ -1,4 +1,4 @@
-## Ecommerce Sales analysis ( Interacrive Dashboard creation using POWER-BI)
+## Madhav Ecommerce Sales analysis ( Interacrive Dashboard creation using POWER-BI)
 ## Project Objective:
 
 Build an interactive Power BI Sales Dashboard using multiple datasets.
